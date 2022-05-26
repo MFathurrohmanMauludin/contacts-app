@@ -8,7 +8,7 @@ const getData = () => {
         },
         {
             id: 2,
-            name: 'megumin',
+            name: 'Megumin',
             tag: 'megumin_chun2maru',
             imageUrl: '/images/megumin.jpg',
           },
